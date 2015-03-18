@@ -9,7 +9,7 @@ class PackageCommand extends Command
 	/**
 	 * @var string $name The console command name.
 	 */
-	protected $name = 'package:command';
+	protected $name = 'mypackage:command';
 
 	/**
 	 * @var string $description The console command description.

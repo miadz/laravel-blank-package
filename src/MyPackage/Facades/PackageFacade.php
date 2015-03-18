@@ -2,11 +2,6 @@
 
 use Illuminate\Support\Facades\Facade;
 
-/**
- * License: MIT
- * Github: https://github.com/laracasts
- * @package laracasts/flash
- */
 class PackageFacade extends Facade {
 
     /**
