@@ -30,7 +30,7 @@ Replace **[package name]** with the name of your package.
 
 Once the repo has been cloned, you can start editing the `composer.json` file, the `src/config/package.php` file and the `src/Package/PackageServiceProvider.php` file.
 
->Just remember to rename `src/config/package.php`, `src/Package/` directory  and the `src/Package/PackageServiceProvider.php` to the name of your package.
+>Just remember to rename all the files and folders in `src` to the appropriate names for your package as well as rename the `MyVendor\MyPackage*` namespace of each file.
 
 ---
 
